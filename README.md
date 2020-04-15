@@ -20,7 +20,7 @@ First off you'll need to do some pre deploy setup.  That's all detailed [here](h
 
 ### **Using OCI Resource Manager**
 
-Download [ORM Stack Template](https://github.com/oracle-quickstart/oci-ebs/blob/master/orm/hyperion.zip) and create stack using steps documented [here](https://docs.cloud.oracle.com/en-us/iaas/Content/ResourceManager/Concepts/samplecomputeinstance.htm#build) 
+Download [ORM Stack Template](https://github.com/oracle-quickstart/oci-ebs/blob/master/orm/ebusinesssuite.zip) and create stack using steps documented [here](https://docs.cloud.oracle.com/en-us/iaas/Content/ResourceManager/Concepts/samplecomputeinstance.htm#build) 
 
 ### **Using Terraform**
 1) Clone the repo
